@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-unicode",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "Standard string unicode constants.",
   "license": "Apache-2.0",
   "author": {

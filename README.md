@@ -18,11 +18,11 @@ limitations under the License.
 
 -->
 
-# String Unicode Constants
+# Unicode Constants
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
 
-> Standard library string unicode constants.
+> Unicode constants.
 
 <section class="installation">
 
@@ -44,7 +44,7 @@ var constants = require( '@stdlib/constants-unicode' );
 
 #### constants
 
-Standard library string unicode constants.
+Namespace containing Unicode constants.
 
 ```javascript
 var ns = constants;
@@ -84,6 +84,16 @@ console.log( objectKeys( constants ) );
 </section>
 
 <!-- /.examples -->
+
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
 <section class="main-repo" >

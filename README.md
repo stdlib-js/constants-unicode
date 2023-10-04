@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode@esm/index.mjs';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { MAX, MAX_BMP } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode@esm/index.mjs';
+import { MAX, MAX_BMP } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode@v0.1.1-esm/index.mjs';
 ```
 
 #### constants
@@ -90,7 +90,7 @@ var ns = constants;
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode@esm/index.mjs';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-unicode@v0.1.1-esm/index.mjs';
 
 console.log( objectKeys( constants ) );
 

@@ -37,7 +37,8 @@
   "dependencies": {
     "@stdlib/constants-unicode-max": "^0.2.0",
     "@stdlib/constants-unicode-max-bmp": "^0.2.0",
-    "@stdlib/utils-define-read-only-property": "^0.2.0"
+    "@stdlib/utils-define-read-only-property": "^0.2.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/math-base-special-floor": "^0.1.1",
